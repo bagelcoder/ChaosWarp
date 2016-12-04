@@ -1,0 +1,4 @@
+name: ChaosWarp
+main: org.chaosdevs.chaoswarp.ChaosWarp
+version: 1.0
+author: slacktooth
